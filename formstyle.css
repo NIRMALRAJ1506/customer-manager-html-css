@@ -1,0 +1,115 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+header,nav{
+	display:block;
+}
+.box{
+	height:70px;
+	width:1532px;
+	border:2px solid #1E90FF;
+	background-color:#1E90FF;
+	
+}
+
+img{
+	width:60px;
+	padding:10px;
+	float:left;
+}
+
+.man{
+	font-size:20px;
+      float:left;
+	padding:20px;
+}
+li{
+float:left;
+margin:10px;
+padding:10px;
+}
+
+.userimg{
+	width:30px;
+	float:left;
+}
+
+.customer{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.card{
+	width:30px;
+	clear:left;
+}
+
+.cv{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.list{
+	width:30px;
+	float:left;
+}
+.lv{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.new{
+	width:30px;
+	float:left;
+}
+
+.nc{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+.left{
+	font-size:20px;
+	float:right;
+}
+
+form{
+	clear:left;
+	padding:60px 60px;
+}
+.fn{
+	font-size:20px;
+}
+.ln{
+font-size:20px;
+}	
+.mail{
+	font-size:20px;
+}
+.ph{
+	font-size:20px;
+}
+.db{
+	font-size:20px;
+}
+.fc{
+	font-size:20px;
+}
+.ad{
+	font-size:20px;
+}
+.city{
+	font-size:20px;
+}
+.state{
+	font-size:20px;
+}
+.country{
+	font-size:20px;
+}

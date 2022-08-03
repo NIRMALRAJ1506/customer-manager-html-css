@@ -1,0 +1,118 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+header,nav{
+	display:block;
+}
+.box{
+	height:70px;
+	width:1532px;
+	border:2px solid #1E90FF;
+	background-color:#1E90FF;
+	
+}
+
+img{
+	width:60px;
+	padding:10px;
+	float:left;
+}
+
+.man{
+	font-size:20px;
+      float:left;
+	padding:20px;
+}
+li{
+float:left;
+margin:10px;
+padding:10px;
+}
+
+.userimg{
+	width:30px;
+	float:left;
+}
+
+.customer{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.card{
+	width:30px;
+	clear:left;
+}
+
+.cv{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.list{
+	width:30px;
+	float:left;
+}
+.lv{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+
+.new{
+	width:30px;
+	float:left;
+}
+
+.nc{
+	float:left;
+	font-size:20px;
+	padding:10px;
+}
+.left{
+	font-size:20px;
+	float:right;
+}
+
+.con1{
+	height:100px;
+	width:200px;
+	border:2px solid black;
+	clear:left;
+	background-color:#1E90FF;
+	margin:50px;
+}
+
+.line1{
+	border-bottom:2px solid black;
+	display:block;
+}
+
+.edit{
+	width:15px;
+	float:right;
+}
+
+
+.con2{
+	height:100px;
+	width:200px;
+	border:2px solid black;
+	background-color:#1E90FF;
+	border-bottom:2px solid black;
+	clear:right;
+}
+
+.line2{
+	border-bottom:2px solid black;
+	display:block;
+}
+.edit2{
+	width:15px;
+	float:right;
+}

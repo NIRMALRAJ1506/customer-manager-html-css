@@ -1,0 +1,23 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+header,nav{
+	display:block;
+}
+
+.container{
+	width:500px;
+	border:2px solid block;
+}
+
+img{
+	width:30px;
+	padding:10px;
+}
+
+.man{
+	font-size:20px;
+}
